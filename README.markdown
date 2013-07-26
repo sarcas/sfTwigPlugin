@@ -1,4 +1,4 @@
-**I have taken over maintenance of this Symfony 1.{3,4} plugin from Henrik Bjørnskov, as he's now working Symfony2 exlclusively**
+**I have taken over maintenance of this Symfony 1.{3,4} plugin from Henrik Bjørnskov, as he's now working Symfony2 eexclusively**
 
 My current focus is to:
 
